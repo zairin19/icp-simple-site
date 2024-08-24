@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Web Page</title>
+  <style>
+    body {
+      background-color: https://static.vecteezy.com/system/resources/previews/008/079/335/non_2x/empty-showcase-abstract-pastel-color-background-3d-illustration-free-vector.jpg;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Montenegro,Rica T.</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam gravida convallis ultrices.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2022 My Web Page. All rights reserved.</p>
+  </footer>
+</body>
+</html>
